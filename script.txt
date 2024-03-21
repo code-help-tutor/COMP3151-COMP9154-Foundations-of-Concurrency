@@ -1,0 +1,10 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+10mins 
+
+0-1: Dining philosophers introduction 
+1-3: Proposed solutions in academic literature
+3-4: Introduction of Swift
+4-7: Concurrency in Swift
+7-10: Dining philosophers in Swift

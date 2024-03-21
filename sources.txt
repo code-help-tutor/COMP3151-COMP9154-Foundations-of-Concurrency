@@ -1,0 +1,10 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+Pfeiffer, D., 2017. The Dining Philosophers Problem. [online] Medium. Available at: <https://medium.com/science-journal/the-dining-philosophers-problem-fded861c37ed> [Accessed 2 August 2021].
+
+W.Dijkstra, E., 1971. EWD310 - Hierarchical Ordering of Sequential Processes. [ebook] Acta Informatica. Available at: <https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD310.PDF> [Accessed 2 August 2021].
+
+Dekhayser, E., 2021. Grand Central Dispatch Tutorial for Swift 4: Part 1/2. [online] raywenderlich.com. Available at: <https://www.raywenderlich.com/5370-grand-central-dispatch-tutorial-for-swift-4-part-1-2> [Accessed 4 August 2021].
+
+Mangiavacchi, J., 2021. swift-algorithm-club/main.swift at master · raywenderlich/swift-algorithm-club. [online] GitHub. Available at: <https://github.com/raywenderlich/swift-algorithm-club/blob/master/DiningPhilosophers/Sources/main.swift> [Accessed 4 August 2021].
